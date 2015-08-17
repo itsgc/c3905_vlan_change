@@ -18,3 +18,7 @@ The hardcoded value we're setting will be respected only as long as the endpoint
 The script learns target hosts through a text file, one IP per line.
 
 Credentials to logon to the phone are stored in credentials.yml. Only one set of credentials for all targets, sorry.
+
+This script has no error handling whatsoever and it's just a filthy trick meant to save me time during deployment.
+
+It probably took me less time to write it than to finish this Readme.
